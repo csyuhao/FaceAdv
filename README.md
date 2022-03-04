@@ -8,6 +8,8 @@ It is FaceAdv, a physical-world attack that crafts adversarial stickers to decei
 2. ```preprocess/recon.py``` to obtain parameters of 3D face reconstruction.
 3. ```faceadv/face_adv.py``` to train generator model to generate adversarial stickers.
 
+Parameters could be get from [this link](https://drive.google.com/file/d/1oYB7j8qSauEnWeKOpiD-uKDcIbhQ9SUk/view?usp=sharing).
+
 ## File Structure
 
 ```
