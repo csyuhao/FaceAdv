@@ -1,0 +1,3 @@
+*.pyc
+Preprocess/BFM/*
+Preprocess/models/*.pt
